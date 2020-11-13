@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<business_card>
+  <first_name>Andrew</first_name>
+  <last_name>Baker</last_name>
+  <phone>+7 (999) 999-99-99</phone>
+  <email>andrew.baker@rubymail.com</email>
+  <description>Beginner ruby programmer</description>
+</business_card>
