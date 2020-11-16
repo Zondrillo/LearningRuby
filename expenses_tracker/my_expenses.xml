@@ -1,16 +1,15 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?>
 <expenses>
-  <expense date="11.11.2020" category="Education" amount="900">
+  <expense date='11.11.2020' category='Education' amount='900'>
     Ruby on rails book
   </expense>
-
-  <expense date="01.11.2020" category="Grocery" amount="700">
+  <expense date='01.11.2020' category='Grocery' amount='700'>
     Vegetables
   </expense>
-
-  <expense date="05.11.2020" category="Internet shopping" amount="500">
+  <expense date='05.11.2020' category='Internet shopping' amount='500'>
     Charging adapter
   </expense>
-
+  <expense amount='500' category='Household' date='2020-11-16'>
+    plywood
+  </expense>
 </expenses>

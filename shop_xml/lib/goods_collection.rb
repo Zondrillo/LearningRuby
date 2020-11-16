@@ -38,7 +38,7 @@ class GoodsCollection
         puts "#{index}: #{item}"
       end
       puts 'x: Покинуть магазин'
-      user_input = gets.chomp
+      user_input = $stdin.gets.chomp
       break unless user_input != 'x'
 
       if (0..all_goods.collection.size - 1).include?(user_input.to_i)
