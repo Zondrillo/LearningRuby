@@ -1,10 +1,10 @@
-<?xml version="1.0" encoding="utf-8"?>
-
+<?xml version='1.0' encoding='UTF-8'?> 
 <goods>
-  <book title="Зов Ктулху" genre="фантастика" author="Говард Лавкрафт" price="1099" in_stock="4"/>
-  <book title="Гарри Поттер и философский камень" genre="фэнтези" author="Джоан К. Роулинг" price="799" in_stock="7"/>
-  <book title="Хоббит: Туда и обратно" genre="фэнтези" author="Джон Р.Р. Толкиен" price="1299" in_stock="5"/>
-  <movie title="Леон" director="Люк Бессон" year="1994" price="290" in_stock="10"/>
-  <movie title="Матрица" director="Братья Вачовски" year="1999" price="119" in_stock="6"/>
-  <movie title="Властелин колец: Возвращение Короля" director="Питер Джексон" year="2003" price="169" in_stock="8"/>
+  <book title='Зов Ктулху' genre='фантастика' author='Говард Лавкрафт' price='1099' in_stock='4'/>
+  <book title='Гарри Поттер и философский камень' genre='фэнтези' author='Джоан К. Роулинг' price='799' in_stock='7'/>
+  <book title='Хоббит: Туда и обратно' genre='фэнтези' author='Джон Р.Р. Толкиен' price='1299' in_stock='5'/>
+  <movie title='Леон' director='Люк Бессон' year='1994' price='290' in_stock='10'/>
+  <movie title='Матрица' director='Братья Вачовски' year='1999' price='119' in_stock='6'/>
+  <movie title='Властелин колец: Возвращение Короля' director='Питер Джексон' year='2003' price='169' in_stock='8'/>
+  <book author='Стивен Кинг' title='Дети кукурузы' genre='рассказ' price='399' in_stock='13'/>
 </goods>

@@ -41,7 +41,7 @@ class GoodsCollection
       user_input = $stdin.gets.chomp
       break unless user_input != 'x'
 
-      if (0..all_goods.collection.size - 1).include?(user_input.to_i)
+      if user_input =~ /[[:digit:]]/ && (0..all_goods.collection.size - 1).include?(user_input.to_i)
         all_goods.collection[user_input.to_i].quantity_in_stock -= 1
         total += all_goods.collection[user_input.to_i].price
       end
